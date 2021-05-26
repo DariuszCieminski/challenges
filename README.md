@@ -1,2 +1,2 @@
-# challenges
-Solutions for various programming quizes and challenges
+# Challenges
+My solutions for various programming quizes and challenges.
